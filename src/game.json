@@ -2173,6 +2173,10 @@
     {
       "name": "fullscreen",
       "value": "toggled"
+    },
+    {
+      "name": "Stamina_running",
+      "value": "100"
     }
   ],
   "layouts": [

@@ -22,7 +22,7 @@
     "gridWidth": 70,
     "snap": true,
     "windowMask": false,
-    "zoomFactor": 0.178
+    "zoomFactor": 0.37
   },
   "objectsGroups": [
     {
@@ -83128,6 +83128,22 @@
       "numberProperties": [],
       "stringProperties": [],
       "initialVariables": []
+    },
+    {
+      "angle": 0,
+      "customSize": false,
+      "height": 0,
+      "layer": "GUI",
+      "locked": false,
+      "name": "stamina",
+      "persistentUuid": "50388855-7624-47d2-b89e-94d26d78a0f1",
+      "width": 0,
+      "x": 0,
+      "y": 280,
+      "zOrder": 12643521,
+      "numberProperties": [],
+      "stringProperties": [],
+      "initialVariables": []
     }
   ],
   "objects": [
@@ -87344,6 +87360,25 @@
       "zoneRadius": 5,
       "variables": [],
       "behaviors": []
+    },
+    {
+      "bold": false,
+      "italic": false,
+      "name": "stamina",
+      "smoothed": true,
+      "tags": "",
+      "type": "TextObject::Text",
+      "underlined": false,
+      "variables": [],
+      "behaviors": [],
+      "string": "reloading",
+      "font": "",
+      "characterSize": 50,
+      "color": {
+        "b": 112,
+        "g": 112,
+        "r": 112
+      }
     },
     {
       "bold": false,
